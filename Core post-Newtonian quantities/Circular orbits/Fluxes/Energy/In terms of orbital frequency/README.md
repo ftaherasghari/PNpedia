@@ -25,7 +25,7 @@ We use the following notations:
 * ``G`` is Newton's constant of gravitation
 * ``c`` is the speed of light
 * ``m`` is the total mass of the binary, $m = m_1+m_2$
-* ``x`` is the dimensionless orbital frequency $x = G m \omega /c^3$, where $\omega$ is the dimensionful orbital frequency
+* ``x`` is the dimensionless orbital frequency $x=(G m \omega/c^3)^{2/3}$, where $\omega$ is the dimensionful orbital frequency
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
 * ``\[Delta]`` is the relative mass difference, $\delta = \frac{m_1-m_2}{m}$ such that $\delta^2=1-4\nu$
 * ``b0`` is the arbitary constant $b_0$ linked to the choice of foliation
@@ -73,6 +73,9 @@ This result was obtained:
         * (41) of [arXiv:2410.23950v2](https://arxiv.org/abs/arXiv:2410.23950v2)
     * at 3PN in
         * (4.11) of [arXiv:2406.03457v2](https://arxiv.org/abs/arXiv:2406.03457v2)
+    * at 2PN in
+        * (1) of [arXiv:gr-qc/9501027v1](https://arxiv.org/abs/gr-qc/9501027v1), with spins set to zero and converted to $x$ using (2a).
+        * (1.4) of [arXiv:gr-qc/9608012v1](https://arxiv.org/abs/gr-qc/9608012v1), converted to $x$ using (7.1). The overall prefactor in (1.4) should read $32c^5/(5G)$.
 * in the spinning sector
     * in the spin-orbit sector in
         * (13) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
@@ -93,3 +96,4 @@ This result was obtained:
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)] --- except tidal effects
 [Loïc Honet](https://github.com/honetloic) [[0009-0007-2863-6085](https://orcid.org/0009-0007-2863-6085)] --- except tidal effects
 [Eve Dones](https://github.com/evedones) [[0009-0003-0239-4584](https://orcid.org/0009-0003-0239-4584)] --- tidal sector only
+[Fatemeh Taherasghari](https://github.com/ftaherasghari) [0000-0001-6557-3481](https://orcid.org/0000-0001-6557-3481) --- nonspinning sector through relative 2PN only, checked against the DIRE result.
