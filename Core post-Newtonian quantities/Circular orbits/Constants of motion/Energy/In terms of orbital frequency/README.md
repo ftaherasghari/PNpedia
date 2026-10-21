@@ -77,6 +77,9 @@ This result was obtained:
             * (5.7a) of [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1)
     * at 3.5PN in
         * (41) of [arXiv:2410.23950v2](https://arxiv.org/abs/arXiv:2410.23950v2)
+    * at 2PN in
+        * (7.2) of [arXiv:gr-qc/9608012v1](https://arxiv.org/abs/gr-qc/9608012v1), converted to $x$ using (7.1).
+        * (2b) of [arXiv:gr-qc/9501027v1](https://arxiv.org/abs/gr-qc/9501027v1), with spins set to zero and converted to $x$ using (2a).
 * in the spinning sector
    * in the spin-orbit sector in
         * (6.6a) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
@@ -102,3 +105,4 @@ This result was obtained:
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
 [Loïc Honet](https://github.com/honetloic) [[0009-0007-2863-6085](https://orcid.org/0009-0007-2863-6085)]
 [Eve Dones](https://github.com/evedones) [[0009-0003-0239-4584](https://orcid.org/0009-0003-0239-4584)] --- tidal sector only
+[Fatemeh Taherasghari](https://github.com/ftaherasghari) [0000-0001-6557-3481](https://orcid.org/0000-0001-6557-3481) --- nonspinning conservative energy through relative 2PN only, checked against Will and Wiseman (1996).
