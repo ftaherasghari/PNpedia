@@ -35,6 +35,6 @@ We have also introduced the functions defining the hereditary contributions :
 
 The equations of motion were obtained in harmonic coordinates :
 * at 3.5PN in 
-(5.4) of [https://arxiv.org/abs/gr-qc/0201001](https://arxiv.org/pdf/gr-qc/0412018)
+(5.4) of [https://arxiv.org/abs/gr-qc/0412018](https://arxiv.org/pdf/gr-qc/0412018)
 * at 4.5PN in
 (5.5)-(5.6) of [arXiv:2601.06743](https://arxiv.org/abs/2601.06743)
